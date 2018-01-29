@@ -1,6 +1,7 @@
 # oceanic-next-syntax theme
 
 Based on the textmate theme by Voronianski [https://github.com/voronianski/oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme)
+Special thanks to # Voronianski
 
 ## Screenshots
 
