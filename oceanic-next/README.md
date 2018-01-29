@@ -1,7 +1,6 @@
 # oceanic-next-syntax theme
 
 Based on the textmate theme by Voronianski [https://github.com/voronianski/oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme)
-Special thanks to # Voronianski
 
 ## Screenshots
 
@@ -13,3 +12,4 @@ Special thanks to # Voronianski
 
 ###JS
 ![image](https://raw.githubusercontent.com/smlombardi/oceanic-next-syntax/master/screenshots/js.png)
+# <h3 text-align="center">Special thanks to Voronianski</h3>
